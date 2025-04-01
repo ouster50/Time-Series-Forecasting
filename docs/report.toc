@@ -1,0 +1,14 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Введение}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Релевантность}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Цели и задачи}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Обзор литературы}{4}{section.2}%
+\contentsline {section}{\numberline {3}Обзор существующих методов}{5}{section.3}%
+\contentsline {section}{\numberline {4}Методы исследования}{6}{section.4}%
+\contentsline {section}{\numberline {5}Методы прогнозирования}{7}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Критерий Колмогорова-Смирнова}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Dynamic Time Warping}{7}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Анализ ординальных структур}{8}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Исследование синтетических временных рядов}{9}{section.6}%
+\contentsline {section}{\numberline {7}Исследование реальных временных рядов}{12}{section.7}%
+\contentsline {section}{\numberline {8}Заключение}{14}{section.8}%

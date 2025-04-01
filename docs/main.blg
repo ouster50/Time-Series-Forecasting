@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plainurl.bst
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: bibl.bib
+Warning--there's a number but no volume in Bao14
+You've used 10 entries,
+            2943 wiz_defined-function locations,
+            715 strings with 6988 characters,
+and the built_in function-call counts, 4500 in all, are:
+= -- 493
+> -- 124
+< -- 0
++ -- 44
+- -- 32
+* -- 244
+:= -- 650
+add.period$ -- 38
+call.type$ -- 10
+change.case$ -- 45
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 125
+empty$ -- 455
+format.name$ -- 32
+if$ -- 1176
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 11
+newline$ -- 61
+num.names$ -- 20
+pop$ -- 85
+preamble$ -- 1
+purify$ -- 36
+quote$ -- 0
+skip$ -- 319
+stack$ -- 0
+substring$ -- 257
+swap$ -- 10
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 38
+warning$ -- 1
+while$ -- 34
+width$ -- 12
+write$ -- 126
+(There was 1 warning)

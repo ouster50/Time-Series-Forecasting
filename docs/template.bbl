@@ -1,0 +1,69 @@
+\begin{thebibliography}{10}
+
+\bibitem{Gromov15}
+Gromov~V. A. and Borisenko~E. A.
+\newblock Predictive clustering on nonsuccessive observations for multi-step
+  ahead chaotic time series prediction.
+\newblock {\em Neural Computing and Applications}, 26(8):1827--1838, 2015.
+\newblock URL: \url{https://doi.org/10.1007/s00521-015-1845-8}.
+
+\bibitem{Bao14}
+Xiong~T. Bao~Y. and Hu~Z.
+\newblock Multi-step-ahead time series prediction using multiple-output support
+  vector regression.
+\newblock {\em Neurocomputing}, (129):482--493, 2014.
+\newblock URL: \url{https://doi.org/10.1016/j.neucom.2013.09.010}.
+
+\bibitem{Taieb12}
+Atiya A.~F. Ben Taieb~S., Bontempi~G. and Sorjamaa A.
+\newblock A review and comparison of strategies for multi-step ahead time
+  series forecasting based on the nn5 forecasting competition.
+\newblock {\em Computational and Applied Mathematics}, 39(8):7067--7083, 2012.
+\newblock URL: \url{https://doi.org/10.1016/j.eswa.2012.01.039}.
+
+\bibitem{Blockeel98}
+De~Raedt~L. Blockeel~H.
+\newblock Top-down induction of first-order logical decision trees.
+\newblock {\em Artificial Intelligence}, 101(1-2):285--297, 1998.
+\newblock URL: \url{https://doi.org/10.1016/S0004-3702(98)00034-4}.
+
+\bibitem{Gromov17}
+Konev A.~S. Gromov V.~A.
+\newblock Precocious identification of popular topics on twitter with the
+  employment of predictive clustering.
+\newblock {\em Neural Computing and Applications}, 28(11):3317--3322, 2017.
+\newblock URL: \url{https://doi.org/10.1007/s00521-016-2256-1}.
+
+\bibitem{Kantz03}
+Schreiber~T. Kantz~H.
+\newblock Nonlinear time series analysis (2nd ed.).
+\newblock {\em Cambridge University Press}, 2003.
+\newblock URL: \url{https://doi.org/10.1017/CBO9780511755798}.
+
+\bibitem{Potapov00}
+Potapov~A. Malinetskii~G.
+\newblock {\em Modern Problems of Nonlinear Dynamics}.
+\newblock Editorial URSS, 2003.
+
+\bibitem{Taieb10}
+Ben~Taieb S., Sorjamaa A., and G~Bontempi.
+\newblock Multiple-output modeling for multi-step-ahead time series
+  forecasting.
+\newblock {\em Neurocomputing}, 73(10-12):1950--1957, 2010.
+\newblock URL: \url{https://doi.org/10.1016/j.neucom.2009.11.030}.
+
+\bibitem{Small05}
+M.~Small.
+\newblock Applied nonlinear time series analysis: applications in physics,
+  physiology and finance.
+\newblock {\em In World Scientific series in nonlinear science}, Series A(Issue
+  52), 2005.
+
+\bibitem{Wang20}
+Z.~Wang R. Peng C. Gao J.~Gao and Jiang H.
+\newblock A dilated convolution network-based lstm model for multi-step
+  prediction of chaotic time series.
+\newblock {\em Computational and Applied Mathematics}, 39(1):3317--3322, 2020.
+\newblock URL: \url{https://doi.org/10.1007/s40314-019-1006-2}.
+
+\end{thebibliography}
